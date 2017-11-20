@@ -54,9 +54,3 @@ def action():
     
 if __name__ == '__main__':
     action()
-
-'''algoritm
-df = pandas.read_csv("test.csv")
-df.loc[df.ID == 103, 'FirstName'] = "Matt"
-df.loc[df.ID == 103, 'LastName'] = "Jones"
-'''
